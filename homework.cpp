@@ -3,9 +3,8 @@
 
 int main()
 {
-    int input, output;
-    scanf("%d",&input);
-output = input*2;
-printf("%d",&output);
+ char input;
+    scanf("%s",&input);
+printf("%s",&input); 
     return 0;
 }
